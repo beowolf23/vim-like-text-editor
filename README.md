@@ -1,8 +1,3 @@
-========TEMA1========
-
-In acest Readme sunt explicate functionalitatile si implementarea programului
-aferent temei 1 - editorul de text.
-
 Structurile folosite:
 
     - Node - Structura folosita pentru a caracteriza nodul
